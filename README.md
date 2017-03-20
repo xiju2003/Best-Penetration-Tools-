@@ -229,25 +229,25 @@ ________________________________________________________________________________
 * __dnsspider	0.5__	A very fast multithreaded bruteforcer of subdomains that leverages a wordlist and/or character permutation.	http://nullsecurity.net/tools/scanner.html
 * __dnstracer	1.9__	Determines where a given DNS server gets its information from, and follows the chain of DNS servers	http://www.mavetju.org/unix/dnstracer.php
 * __dnsutils	9.9.2.P2__	DNS utilities: dig host nslookup	http://www.isc.org/software/bind/
-dnswalk	2.0.2	A DNS debugger	http://sourceforge.net/projects/dnswalk/
-domain-analyzer	0.8.1	Finds all the security information for a given domain name.	http://sourceforge.net/projects/domainanalyzer/
-doona	118.ff1e17b	A fork of the Bruteforce Exploit Detector Tool (BED).	https://github.com/wireghoul/doona
-dotdotpwn	3.0	The Transversal Directory Fuzzer	http://dotdotpwn.blogspot.com
-dpeparser	beta002	Default password enumeration project	http://www.toolswatch.org/dpe/
-dpscan	0.1	Drupal Vulnerabilty Scanner.	https://github.com/insaneisnotfree/Blue-Sky-Information-Security
-dradis	2.9.0	An open source framework to enable effective information sharing.	http://dradisframework.org/
-driftnet	0.1.6	Listens to network traffic and picks out images from TCP streams it observes.	http://www.ex-parrot.com/~chris/driftnet/
-dripper	v1.r1.gc9bb0c9	A fast, asynchronous DNS scanner; it can be used for enumerating subdomains and enumerating boxes via reverse DNS.	http://www.blackhatlibrary.net/Dripper
-dscanner	709.f00026f	Swiss-army knife for D source code.	https://github.com/Hackerpilot/Dscanner
-dsd	84.60807e0	Digital Speech Decoder	https://github.com/szechyjs/dsd
-dsniff	2.4b1	Collection of tools for network auditing and penetration testing	http://www.monkey.org/~dugsong/dsniff/
-dumb0	19.1493e74	A simple tool to dump users in popular forums and CMS.	https://github.com/0verl0ad/Dumb0
-dump1090	386.bff92c4	A simple Mode S decoder for RTLSDR devices.	https://github.com/MalcolmRobb/dump1090
-dumpacl	0.0	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bin/download.pl?DumpAcl
-dumpzilla	03152013	A forensic tool for firefox.	http://www.dumpzilla.org/
-eapmd5pass	1.4	An implementation of an offline dictionary attack against the EAP-MD5 protocol	http://www.willhackforsushi.com/?page_id=67
-easy-creds	3.9	A bash script that leverages ettercap and other tools to obtain credentials.	https://github.com/brav0hax/easy-creds
-easyfuzzer	3.6	A flexible fuzzer, not only for web, has a CSV output for efficient output analysis (platform independant).	http://www.mh-sec.de/downloads.html.en
+* __dnswalk	2.0.2__	A DNS debugger	http://sourceforge.net/projects/dnswalk/
+* __domain-analyzer	0.8.1__	Finds all the security information for a given domain name.	http://sourceforge.net/projects/domainanalyzer/
+* __doona	118.ff1e17b__	A fork of the Bruteforce Exploit Detector Tool (BED).	https://github.com/wireghoul/doona
+* __dotdotpwn	3.0__	The Transversal Directory Fuzzer	http://dotdotpwn.blogspot.com
+* __dpeparser	beta002__	Default password enumeration project	http://www.toolswatch.org/dpe/
+* __dpscan	0.1__	Drupal Vulnerabilty Scanner.	https://github.com/insaneisnotfree/Blue-Sky-Information-Security
+* __dradis	2.9.0__	An open source framework to enable effective information sharing.	http://dradisframework.org/
+* __driftnet	0.1.6__	Listens to network traffic and picks out images from TCP streams it observes.	http://www.ex-parrot.com/~chris/driftnet/
+* ___dripper	v1.r1.gc9bb0c9__	A fast, asynchronous DNS scanner; it can be used for enumerating subdomains and enumerating boxes via reverse DNS.	http://www.blackhatlibrary.net/Dripper
+* __dscanner	709.f00026f__	Swiss-army knife for D source code.	https://github.com/Hackerpilot/Dscanner
+* __dsd	84.60807e0__	Digital Speech Decoder	https://github.com/szechyjs/dsd
+* __dsniff	2.4b1__	Collection of tools for network auditing and penetration testing	http://www.monkey.org/~dugsong/dsniff/
+* __dumb0	19.1493e74__	A simple tool to dump users in popular forums and CMS.	https://github.com/0verl0ad/Dumb0
+* __dump1090	386.bff92c4__	A simple Mode S decoder for RTLSDR devices.	https://github.com/MalcolmRobb/dump1090
+* __dumpacl	0.0__	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bin/download.pl?DumpAcl
+* __dumpzilla	03152013__	A forensic tool for firefox.	http://www.dumpzilla.org/
+* __eapmd5pass	1.4__	An implementation of an offline dictionary attack against the EAP-MD5 protocol	http://www.willhackforsushi.com/?page_id=67
+* __easy-creds	3.9	A__ bash script that leverages ettercap and other tools to obtain credentials.	https://github.com/brav0hax/easy-creds
+* __easyfuzzer	3.6__	A flexible fuzzer, not only for web, has a CSV output for efficient output analysis (platform independant).	http://www.mh-sec.de/downloads.html.en
 eazy	0.1	This is a small python tool that scans websites to look for PHP shells, backups, admin panels, and more.	http://packetstormsecurity.com/files/117572/EAZY-Web-Scanner.html
 edb	0.9.20	A QT4-based binary mode debugger with the goal of having usability on par with OllyDbg.	http://www.codef00.com/projects.php#Debugger
 eindeutig	20050628_1	Examine the contents of Outlook Express DBX email repository files (forensic purposes)	http://www.jonesdykstra.com/
